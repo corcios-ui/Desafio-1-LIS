@@ -1,0 +1,14 @@
+[
+  {
+    "ciudad": "San Salvador",
+    "temperatura": "77.0°F",
+    "humedad": "74%",
+    "clima": "Clear"
+  },
+  {
+    "ciudad": "historial",
+    "temperatura": "3.0°C",
+    "humedad": "87%",
+    "clima": "Overcast"
+  }
+]
